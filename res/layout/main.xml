@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scroller"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true" >
+    
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical" >
+		
+		<Button
+		    android:id="@+id/chantTitleBuryMe"
+		    android:text="@string/chantTitleBuryMe"
+		    style="@style/styleButton" 
+		    android:layout_marginTop="8sp" />
+		<Button
+		    android:id="@+id/chantTitleCantHelp"
+		    android:text="@string/chantTitleCantHelp"
+		    style="@style/styleButton" />
+		<Button
+		    android:id="@+id/chantTitleWannaBe"
+		    android:text="@string/chantTitleWannaBe"
+			style="@style/styleButton" />
+		
+		<Button
+		    android:id="@+id/chantTitleMentalBarmy"
+		    android:text="@string/chantTitleMentalBarmy"
+			style="@style/styleButton" />
+		
+		<Button
+		    android:id="@+id/chantTitleMentalGreen"
+		    android:text="@string/chantTitleMentalGreen"
+		    style="@style/styleButton" />
+	
+		<Button
+		    android:id="@+id/chantTitleNorthEnd"
+		    android:text="@string/chantTitleNorthEnd"
+		    style="@style/styleButton" />
+	
+	
+		<Button
+		    android:id="@+id/chantTitleOnward"
+		    android:text="@string/chantTitleOnward"
+		    style="@style/styleButton" />
+			
+		<Button
+	        android:id="@+id/chantTitleParty"
+	        android:text="@string/chantTitleParty"
+	        style="@style/styleButton" />
+	
+		<Button
+	        android:id="@+id/chantTitlePortlandBoys"
+	        android:text="@string/chantTitlePortlandBoys"
+	        style="@style/styleButton" />
+		
+		<Button
+	        android:id="@+id/chantTitleLoveYouSo"
+	        android:text="@string/chantTitleLoveYouSo"
+	        style="@style/styleButton" />
+		
+		<Button
+		     android:id="@+id/chantTitleWhoaOh"
+		     android:text="@string/chantTitleWhoaOh"
+		     style="@style/styleButton" />
+			
+		 <Button
+		     android:id="@+id/chantTitleSomos"
+		     android:text="@string/chantTitleSomos"
+		     style="@style/styleButton" />
+		
+		<Button
+		     android:id="@+id/chantTitleTetris"
+		     android:text="@string/chantTitleTetris"
+		     style="@style/styleButton" />	
+		
+		<Button
+		     android:id="@+id/chantTitleWinTheLeague"
+		     android:text="@string/chantTitleWinTheLeague"
+		     style="@style/styleButton" />
+	
+		<Button
+		     android:id="@+id/chantTitleSunshine"
+		     android:text="@string/chantTitleSunshine"
+		     style="@style/styleButton" />
+		
+		
+	</LinearLayout>
+</ScrollView>

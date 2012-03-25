@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- BEGIN GENERAL STRINGS -->
+
+    <string name="app_name">TimberSong</string>
+    <string name="app_desc">A Small Guide to the Chants\nOf the Timbers Army</string>
+    
+    <string name="about">About</string>
+    <string name="schedule2012">Schedule</string>
+
+    <string name="highwater_name">HIGHWATER\nLABS</string>
+    <string name="highwater_desc">Mobile Application Development\nPortland, OR\n2012</string>
+    <string name="highwater_website">Project Home:\n  http://highwaterlabs.com/timbersong.html</string>
+    <string name="highwater_source">Source Code:\n  https://github.com/eupharis/timbersong</string>  
+    <string name="version">v0.1</string>
+    
+<!-- BEGIN SCHEDULE STRINGS --> 
+
+    <string-array name="home_game_array">
+		<item>"(All times PM PDT - Last updated: 03/24/12)"</item>
+        <item>"2012 Schedule - Home Games"</item>
+        <item>"03/12 @ 7:30 | Philadelphia"</item>
+        <item>"03/31 @ 7:00 | Real Salt Lake"</item>
+        <item>"04/07 @ 7:30 | Chivas"</item>
+        <item>"04/21 @ 7:30 | Sporting KC"</item>
+        <item>"05/05 @ 7:30 | Columbus"</item>
+        <item>"05/20 @ 4:00 | Chicago"</item>
+		<item>"05/23 @ 7:30 | Valencia"</item>
+		<item>"05/26 @ 7:00 | Vancouver"</item>
+		<item>"06/24 @ 2:00 | Seattle"</item>
+		<item>"07/03 @ 7:30 | San Jose"</item>
+		<item>"07/14 @ 8:00 | Los Angeles"</item>
+		<item>"08/05 @ 4:00 | Dallas"</item>
+        <item>"08/25 @ 7:30 | Vancouver"</item>
+        <item>"08/31 @ 7:30 | Colorado"</item>
+		<item>"09/15 @12:30 | Seattle"</item>
+		<item>"09/29 @ 7:30 | D.C. United"</item>
+		<item>"10/27 @ 3:30 | San Jose"</item>
+		<item>""</item>
+        <item>"2012 Schedule - Away Games"</item>
+        <item>"03/17 @ 6:00 | FC Dallas"</item>
+        <item>"03/24 @ 1:00 | New England"</item>
+        <item>"04/14 @ 7:30 | Los Angeles"</item>
+        <item>"04/28 @11:00AM | Montreal"</item>
+        <item>"05/15 @ 5:30 | Houston"</item>
+		<item>"06/17 @ 4:00 | Los Angeles"</item>
+        <item>"06/30 @ 6:00 | Colorado"</item>
+        <item>"07/07 @ 6:00 | Real Salt Lake"</item>
+        <item>"07/18 @ 1:00 | Chivas"</item>
+        <item>"07/21 @ 6:00 | Dallas"</item>
+        <item>"08/15 @ 4:30 | Toronto"</item>
+		<item>"08/19 @ 4:00 | New York"</item>
+		<item>"09/05 @ 6:00 | Colorado"</item>
+		<item>"09/19 @ 7:30 | San Jose"</item>
+		<item>"09/22 @ 5:00 | Real Salt Lake"</item>
+		<item>"10/07 @ 6:00 | Seattle"</item>
+		<item>"10/21 @ 4:00 | Vancouver"</item>
+    </string-array>
+    
+<!-- BEGIN CHANT_TITLE SECTION -->
+	<string name="chantTitleParty">Party In Portland</string>
+    <string name="chantTitleTetris">Tetris</string>
+    <string name="chantTitleSomos">Somos Timbers</string>
+    <string name="chantTitleWinTheLeague">We\'re Gonna Win the League</string>
+    <string name="chantTitleOnward">Onward Rose City</string>
+    <string name="chantTitleWhoaOh">Rose City, Whoa-Oh</string>
+    <string name="chantTitleMentalBarmy">Mental And Barmy</string>
+    <string name="chantTitleWannaBe">I Wanna Be Rose City</string>
+    <string name="chantTitleMighty">Mighty PTFC</string>
+    <string name="chantTitleMentalGreen">Mental And Green</string>
+    <string name="chantTitleBuryMe">Bury Me in Timbers Green</string>
+    <string name="chantTitleCantHelp">Can\'t Help Falling in Love</string>
+    <string name="chantTitleSunshine">You Are My Sunshine</string>
+	<string name="chantTitleLoveYouSo">Portland We Love You So</string>    
+	<string name="chantTitlePortlandBoys">Portland Boys We Are Here</string>
+	<string name="chantTitleNorthEnd">North End Noise</string>
+	
+<!-- BEGIN CHANT_TEXT SECTION -->
+    <string name="chantTextBuryMe">
+		And when I go\n
+	    And when I go\n
+		And when I go\n
+		Make sure I’m wearing green and gold\n
+		Bury me in Timbers Green, Ohh-ohh\n
+		Bury me in Timbers Gold, Ahh-ahh\n
+		Bury me in Timbers Green, Ohh-ohh\n
+		Bury me in Timbers Gold, Ahh-ahh\n
+    </string>
+    
+    <string name="chantTextCantHelp">
+		(At the 85th minute)\n\n
+		Wise men say\n
+		Only fools rush in\n
+		But I can\’t help\n
+		Falling in love with you\n
+		Take my hand\n
+		Take my whole life too\n
+		\'Cause I can’t help\n
+		Falling in love with you\n
+	</string>
+    
+    <string name="chantTextMentalBarmy">
+        We are Timbers Army\n
+		We are mental and we’re barmy\n
+		True supporters forever more\n
+    </string>
+    
+    <string name="chantTextMentalGreen">
+		(Tune: “You are my Sunshine”)\n
+		\n
+		We are the Portland\n
+		The Portland Timbers\n
+		We are mental\n
+		And we are green\n
+		We are the greatest\n
+		Football supporters\n
+		That the world has ever seen.\n
+    </string>
+    
+    <string name="chantTextMighty">
+    	Allez Allez Alo\n
+    	Allez Allez Alo\n
+		We are the Rose City\n
+		The mighty PTFC\n
+		(2x slow with overhead claps, 2x fast)\n
+    </string>
+    
+    <string name="chantTextNorthEnd">
+		(Follow capo to know which group you’re in)\n
+		\n
+		GROUP ONE: So who are we?\n
+		GROUP TWO: So who are we?\n
+		G1: We are the boys!\n
+		G2: We are the boys!\n
+		G1: We’re from the North End\n
+		and we’re here to make some noise!\n
+		G2: Make some noise!\n
+		G1: For our boys!\n
+		G2: For our boys!\n
+		G1: And you will see!\n
+		G2: And you will see!\n
+		All: We’re gonna jump and clap and sing\n
+		For victory!\n
+		And when we do… you’ll know that noise\n
+		Came from the North End\n
+		Portland Timbers Army Boys\n
+		Oh Rose City, oh Rose City\n
+		This is our team, the mighty P-T-F-C!
+    </string>
+    
+    <string name="chantTextOnward">
+        Whoooooa, Whoooooa, Whoooooa\n
+		Whoooooa, Whoooooa, Whoooooa\n
+		Whoooooa, Whoooooa, Whoooooa\n
+		On-ward Rose City\n
+		(2x with hands up, 2x clapping)\n
+    </string>
+    
+    <string name="chantTextParty">
+		We’ll sing for you Timbers\n
+		‘Til you finish the fight\n
+		There’s a party in Portland\n
+		No one’s sleeping tonight\n    
+    </string>
+
+	<string name="chantTextLoveYouSo">
+		Portland we love you so\n
+		And where you go we will follow\n
+		Portland we love you so\n
+		You’ve stolen our hearts. TIM-BERS!\n
+		\n
+		(Alternate slow overhead claps and fast)
+	</string>
+
+	<string name="chantTextPortlandBoys">
+		Portland boys, we are here\n
+		Whoa, Whoa\n
+		Portland boys, we are here\n
+		Whoa, Whoa\n
+		Portland boys, we are here\n
+		Shag your women, drink your beer!\n
+		Whoa, Whoa, Whoa\n
+		\n
+		Burn, destroy, wreck and kill\n
+		Whoa, Whoa\n
+		Burn, destroy, wreck and kill\n
+		Whoa, Whoa\n
+		Burn, destroy, wreck and kill\n
+		Portland Timbers bloody will!\n
+		Whoa, Whoa, Whoa\n
+		\n
+		Use your head, use your feet\n
+		Whoa, Whoa\n
+		Use your head, use your feet\n
+		Whoa, Whoa\n
+		Use your head, use your feet\n
+		10 [color of opposition] buggers at my feet!\n
+		Whoa, Whoa, Whoa\n
+		\n
+		We are green, we are white\n
+		Whoa, Whoa\n
+		We are green, we are white\n
+		Whoa, Whoa\n
+		We are green, we are white\n
+		We are bloody dynamite!\n
+		Whoa, Whoa, Whoa\n
+		\n		
+		(Only sing when directed by capos:)\n
+		Can you hear [the others] sing?\n
+		Noo, Noo\n
+		Can you hear [the others] sing?\n
+		Noo, Noo\n
+		Can you hear [the others] sing?\n
+		I can’t hear a bloody thing!\n
+		Whoa, Whoa, Whoa\n
+	</string>
+	
+    <string name="chantTextSomos">
+		Ole Ole Ole,\n
+		Ole Ole Ola,\n
+		Sooo\n
+		Somos Timbers\n
+		Portland Timbers\n
+		Vamos a ganar!\n
+    </string>
+    
+    <string name="chantTextTetris">
+        (Tune: “Tetris theme (Korobeiniki)”)\n
+        \n
+		Portland Timbers\n
+		We adore you\n
+		Portland Timbers\n
+		For you, WE SING!\n
+		Lo lo-lo-lo lo-lo-lo…\n    
+	</string>
+    
+    <string name="chantTextWhoaOh">
+	    Rose City, Whoa-oh\n
+		Rose City, Whoa-oh\n
+		Stand for the boys in green\n
+		The best you’ve ever seen\n
+	</string>
+	
+    <string name="chantTextWannaBe">
+        (Tune: “Anarchy in the UK”)\n\n
+		I am a Timbers fan!\n
+		And I am an Oregonian!\n
+		I know what I want and I know how to get it\n
+		I wanna destroy\n
+		Seattle scum\n
+		Cuz I wanna be\n
+		Rose City\n
+    </string>
+    
+    <string name="chantTextWinTheLeague">
+	    We’re gonna win the league\n
+		We’re gonna win the league\n
+		I don’t know how\n
+		I don’t know when\n
+		But we’re gonna win the league!    
+    </string>
+    
+    <string name="chantTextSunshine">
+        (At the 80th minute)\n
+        \n
+		You are my sunshine\n
+		My only sunshine\n
+		You make me happy\n
+		When skies are gray\n
+		You’ll never know dear,\n
+		How much I love you\n
+		So please don’t take my sunshine away\n
+	</string>
+
+</resources>

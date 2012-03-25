@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scroller"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true" >
+    
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical"
+	    >
+		
+	    <TextView
+	        android:id="@+id/showChantTitle"
+	        style="@style/styleTitle"
+	        />
+	    
+		<TextView
+			android:id="@+id/showChantText"
+			style="@style/styleText"
+			android:layout_marginBottom="50sp" />
+	
+		
+	</LinearLayout>
+</ScrollView>
