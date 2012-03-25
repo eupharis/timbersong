@@ -20,24 +20,25 @@ public final class R {
         public static final int ic_timbersong=0x7f020001;
     }
     public static final class id {
-        public static final int about=0x7f080014;
+        public static final int about=0x7f080015;
         public static final int chantTitleBuryMe=0x7f080004;
         public static final int chantTitleCantHelp=0x7f080005;
-        public static final int chantTitleLoveYouSo=0x7f08000d;
+        public static final int chantTitleLoveYouSo=0x7f08000e;
         public static final int chantTitleMentalBarmy=0x7f080007;
         public static final int chantTitleMentalGreen=0x7f080008;
-        public static final int chantTitleNorthEnd=0x7f080009;
-        public static final int chantTitleOnward=0x7f08000a;
-        public static final int chantTitleParty=0x7f08000b;
-        public static final int chantTitlePortlandBoys=0x7f08000c;
-        public static final int chantTitleSomos=0x7f08000f;
-        public static final int chantTitleSunshine=0x7f080012;
-        public static final int chantTitleTetris=0x7f080010;
+        public static final int chantTitleMighty=0x7f080009;
+        public static final int chantTitleNorthEnd=0x7f08000a;
+        public static final int chantTitleOnward=0x7f08000b;
+        public static final int chantTitleParty=0x7f08000c;
+        public static final int chantTitlePortlandBoys=0x7f08000d;
+        public static final int chantTitleSomos=0x7f080010;
+        public static final int chantTitleSunshine=0x7f080013;
+        public static final int chantTitleTetris=0x7f080011;
         public static final int chantTitleWannaBe=0x7f080006;
-        public static final int chantTitleWhoaOh=0x7f08000e;
-        public static final int chantTitleWinTheLeague=0x7f080011;
+        public static final int chantTitleWhoaOh=0x7f08000f;
+        public static final int chantTitleWinTheLeague=0x7f080012;
         public static final int name_version=0x7f080000;
-        public static final int scheduleOption=0x7f080013;
+        public static final int scheduleOption=0x7f080014;
         public static final int scroller=0x7f080001;
         public static final int showChantText=0x7f080003;
         public static final int showChantTitle=0x7f080002;

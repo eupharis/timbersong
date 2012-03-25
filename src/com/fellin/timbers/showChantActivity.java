@@ -47,6 +47,10 @@ public class showChantActivity extends Activity {
 			chantTitle = getString(R.string.chantTitleMentalGreen);
 			chantText = getString(R.string.chantTextMentalGreen);
 			break;
+		case R.id.chantTitleMighty:
+			chantTitle = getString(R.string.chantTitleMighty);
+			chantText = getString(R.string.chantTextMighty);
+			break;
 		case R.id.chantTitleNorthEnd:
 			chantTitle = getString(R.string.chantTitleNorthEnd);
 			chantText = getString(R.string.chantTextNorthEnd);

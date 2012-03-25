@@ -24,23 +24,22 @@
 		    android:id="@+id/chantTitleWannaBe"
 		    android:text="@string/chantTitleWannaBe"
 			style="@style/styleButton" />
-		
 		<Button
 		    android:id="@+id/chantTitleMentalBarmy"
 		    android:text="@string/chantTitleMentalBarmy"
 			style="@style/styleButton" />
-		
 		<Button
 		    android:id="@+id/chantTitleMentalGreen"
 		    android:text="@string/chantTitleMentalGreen"
 		    style="@style/styleButton" />
-	
+		<Button
+		    android:id="@+id/chantTitleMighty"
+		    android:text="@string/chantTitleMighty"
+		    style="@style/styleButton" />
 		<Button
 		    android:id="@+id/chantTitleNorthEnd"
 		    android:text="@string/chantTitleNorthEnd"
 		    style="@style/styleButton" />
-	
-	
 		<Button
 		    android:id="@+id/chantTitleOnward"
 		    android:text="@string/chantTitleOnward"
@@ -50,22 +49,18 @@
 	        android:id="@+id/chantTitleParty"
 	        android:text="@string/chantTitleParty"
 	        style="@style/styleButton" />
-	
 		<Button
 	        android:id="@+id/chantTitlePortlandBoys"
 	        android:text="@string/chantTitlePortlandBoys"
 	        style="@style/styleButton" />
-		
 		<Button
 	        android:id="@+id/chantTitleLoveYouSo"
 	        android:text="@string/chantTitleLoveYouSo"
 	        style="@style/styleButton" />
-		
 		<Button
 		     android:id="@+id/chantTitleWhoaOh"
 		     android:text="@string/chantTitleWhoaOh"
 		     style="@style/styleButton" />
-			
 		 <Button
 		     android:id="@+id/chantTitleSomos"
 		     android:text="@string/chantTitleSomos"
