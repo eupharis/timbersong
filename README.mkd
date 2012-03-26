@@ -1,0 +1,17 @@
+Name: TimberSong
+Version: 0.01
+By: Dan Fellin - HighwaterLabs
+
+TimberSong is a small Android App that contains the chants of the Timbers Army. It also has a copy of the 2012 Timbers schedule.
+
+It is undergoing heavy development. It's the first Android App I've ever written, and there's a lot of stuff I would do differently knowing what I know now. In particular, I am going to change it to:
+
++ Convert the chantTitle and chantText to String arrays
++ Replace the individually coded buttons on the MainMenu with a ListView
++ Somehow without IDs make the ListView that is clicked show the right chant...
+
+I think all this should improve the app's performance and maintainability, while reducing its size by a fair bit.
+
+The project is open-source and any contributions are most welcome.
+
+The source code is in a [git repository](http://www.github.com/eupharis/timbersong) on github.
