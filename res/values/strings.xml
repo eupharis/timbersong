@@ -8,6 +8,7 @@
     
     <string name="about">About</string>
     <string name="schedule2012">Schedule</string>
+    <string name="year">2012</string>
 
     <string name="highwater_name">HIGHWATER\nLABS</string>
     <string name="highwater_desc">Mobile Application Development\nPortland, OR\n2012</string>
@@ -19,7 +20,7 @@
 
     <string-array name="home_game_array">
 		<item>"(All times PM PDT - Last updated: 03/24/12)"</item>
-        <item>"2012 Schedule - Home Games"</item>
+        <item>"Home Games"</item>
         <item>"03/12 @ 7:30 | Philadelphia"</item>
         <item>"03/31 @ 7:00 | Real Salt Lake"</item>
         <item>"04/07 @ 7:30 | Chivas"</item>
