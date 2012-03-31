@@ -19,7 +19,14 @@
 	    
 		<TextView
 			android:id="@+id/showChantText"
-			style="@style/styleText"
+			style="@style/styleText" />
+				
+		<TextView
+			android:id="@+id/showChantLink"
+			android:autoLink="web"
+			android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:gravity="center_horizontal"
 			android:layout_marginBottom="50sp" />
 	
 		

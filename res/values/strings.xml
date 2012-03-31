@@ -7,20 +7,21 @@
     <string name="app_desc">A Small Guide to the Chants\nOf the Timbers Army</string>
     
     <string name="about">About</string>
-    <string name="schedule2012">Schedule</string>
+    <string name="schedule">2012 Schedule</string>
+    <string name="scheduleUpdated">Times are PM PDT - Last updated: 03/24/12</string>
     <string name="year">2012</string>
+    <string name="home">Home</string>
+    <string name="away">Away</string>
 
     <string name="highwater_name">HIGHWATER\nLABS</string>
     <string name="highwater_desc">Mobile Application Development\nPortland, OR\n2012</string>
     <string name="highwater_website">Project Home:\n  http://highwaterlabs.com/timbersong.html</string>
     <string name="highwater_source">Source Code:\n  https://github.com/eupharis/timbersong</string>  
-    <string name="version">v0.1</string>
+    <string name="version">v1.1</string>
     
 <!-- BEGIN SCHEDULE STRINGS --> 
 
     <string-array name="home_game_array">
-		<item>"(All times PM PDT - Last updated: 03/24/12)"</item>
-        <item>"Home Games"</item>
         <item>"03/12 @ 7:30 | Philadelphia"</item>
         <item>"03/31 @ 7:00 | Real Salt Lake"</item>
         <item>"04/07 @ 7:30 | Chivas"</item>
@@ -38,8 +39,9 @@
 		<item>"09/15 @12:30 | Seattle"</item>
 		<item>"09/29 @ 7:30 | D.C. United"</item>
 		<item>"10/27 @ 3:30 | San Jose"</item>
-		<item>""</item>
-        <item>"2012 Schedule - Away Games"</item>
+	</string-array>
+		
+	<string-array name="away_game_array">	
         <item>"03/17 @ 6:00 | FC Dallas"</item>
         <item>"03/24 @ 1:00 | New England"</item>
         <item>"04/14 @ 7:30 | Los Angeles"</item>
@@ -60,22 +62,24 @@
     </string-array>
     
 <!-- BEGIN CHANT_TITLE SECTION -->
-	<string name="chantTitleParty">Party In Portland</string>
-    <string name="chantTitleTetris">Tetris</string>
-    <string name="chantTitleSomos">Somos Timbers</string>
-    <string name="chantTitleWinTheLeague">We\'re Gonna Win the League</string>
-    <string name="chantTitleOnward">Onward Rose City</string>
-    <string name="chantTitleWhoaOh">Rose City, Whoa-Oh</string>
+	<string name="chantTitleBuryMe">Bury Me in Timbers Green</string>
+	<string name="chantTitleCantHelp">Can\'t Help Falling in Love</string>
+	<string name="chantTitleWannaBe">I Wanna Be Rose City</string>
     <string name="chantTitleMentalBarmy">Mental And Barmy</string>
-    <string name="chantTitleWannaBe">I Wanna Be Rose City</string>
-    <string name="chantTitleMighty">Mighty PTFC</string>
     <string name="chantTitleMentalGreen">Mental And Green</string>
-    <string name="chantTitleBuryMe">Bury Me in Timbers Green</string>
-    <string name="chantTitleCantHelp">Can\'t Help Falling in Love</string>
-    <string name="chantTitleSunshine">You Are My Sunshine</string>
-	<string name="chantTitleLoveYouSo">Portland We Love You So</string>    
-	<string name="chantTitlePortlandBoys">Portland Boys We Are Here</string>
+    <string name="chantTitleMighty">Mighty PTFC</string>
 	<string name="chantTitleNorthEnd">North End Noise</string>
+	<string name="chantTitleOnward">Onward Rose City</string>
+    <string name="chantTitleParty">Party In Portland</string>
+    <string name="chantTitleLoveYouSo">Portland We Love You So</string>    
+	<string name="chantTitlePortlandBoys">Portland Boys We Are Here</string>
+	<string name="chantTitleWhoaOh">Rose City, Whoa-Oh</string>
+	<string name="chantTitleSomos">Somos Timbers</string>
+	<string name="chantTitleTetris">Tetris</string>
+    <string name="chantTitleWinTheLeague">We\'re Gonna Win the League</string>
+    <string name="chantTitleSunshine">You Are My Sunshine</string>
+	
+	
 	
 <!-- BEGIN CHANT_TEXT SECTION -->
     <string name="chantTextBuryMe">
@@ -273,5 +277,40 @@
 		How much I love you\n
 		So please don’t take my sunshine away\n
 	</string>
-
+	
+    <string-array name="chantLink">
+        <!-- Bury Me In Green and Gold -->
+        <item>http://m.youtube.com/watch?v=-2DqNaUKN0s</item>
+        <!--Can't Help Falling in Love-->
+		<item>http://m.youtube.com/watch?v=jFm-TzIWzt4</item>
+		<!--I Wanna Be Rose City-->
+		<item>http://m.youtube.com/watch?v=Alo6-VBYjI4</item>
+		<!--Mental And Barmy-->
+		<item>""</item>
+		<!--Mental And Green-->
+		<item>http://m.youtube.com/watch?v=JspzcONB1W4</item>
+		<!--Mighty PTFC-->
+		<item>""</item>
+		<!--North End Noise-->
+		<item>http://m.youtube.com/watch?v=Ko2eONX5NVs</item>
+		<!--Onward Rose City-->
+		<item>http://m.youtube.com/watch?v=Omi5UJQkGFE</item>
+		<!--Party In Portland-->
+		<item>""</item>
+		<!--Portland Boys We Are Here-->
+		<item>http://m.youtube.com/watch?v=ME1B_iPl7Lk</item>
+		<!--Portland We Love You So-->
+		<item>http://m.youtube.com/watch?v=wPJXamW_f_U</item>
+		<!--Rose City, Whoa-Oh-->
+		<item>""</item>
+		<!--Somos Timbers-->
+		<item>http://m.youtube.com/watch?v=oqhJAHx_080</item>
+		<!--Tetris-->
+		<item>http://m.youtube.com/watch?v=eH0OFRJkMKQ</item>
+		<!--We're Gonna Win the League-->
+		<item>""</item>
+		<!--You Are My Sunshine-->
+		<item>http://m.youtube.com/watch?v=a0gvdQ7E790</item>
+    </string-array>
+    
 </resources>

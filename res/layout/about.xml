@@ -2,7 +2,9 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:orientation="vertical" >
+    android:orientation="vertical" 
+    android:paddingLeft="8dp"
+	android:paddingRight="8dp">
     
 	<!-- name_version defined within activity-->
 	<!-- consists of strings: app_name + version -->
@@ -18,8 +20,6 @@
         android:layout_height="5dip"
         android:gravity="center_vertical"
         android:layout_marginTop="20sp"
-        android:layout_marginLeft="20sp"
-        android:layout_marginRight="20sp"
         android:layout_marginBottom="20sp"
          />
 	
@@ -43,6 +43,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="20sp"
         android:layout_marginBottom="20sp"
+        android:autoLink="web"
          />
     <TextView 
         android:text="@string/highwater_source"
@@ -50,5 +51,6 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="20sp"
-        android:layout_marginBottom="20sp" />
+        android:layout_marginBottom="20sp"
+        android:autoLink="web" />
 </LinearLayout>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-	    <item
+	    <item 
 	        android:id="@+id/scheduleOption"
-	        android:title="@string/schedule2012"
-			android:icon="@android:drawable/ic_menu_today"
-	        style="@style/styleMenu"></item>
+	        android:title="@string/schedule"
+			android:icon="@android:drawable/ic_menu_today">
+	        </item>
 	    <item
 	        android:id="@+id/about"
 	        android:title="@string/about"
-			android:icon="@android:drawable/ic_menu_info_details"
-	    	style="@style/styleMenu"></item>
+			android:icon="@android:drawable/ic_menu_info_details">
+	    	</item>
 	</menu>

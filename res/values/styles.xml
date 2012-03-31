@@ -3,7 +3,6 @@
     <style name="styleTitle">
         <item name="android:textSize">25sp</item>
         <item name="android:textColor">#FFFFFF</item>
-        <item name="android:background">#000000</item>
         <item name="android:layout_width">fill_parent</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_marginTop">20sp</item>
@@ -11,7 +10,7 @@
         <item name="android:orientation">vertical</item>
         <item name="android:gravity">center_horizontal</item>
     </style>
-    
+ 
     <style name="styleText">
         <item name="android:textSize">15sp</item>
         <item name="android:lineSpacingMultiplier">1.3</item>
@@ -22,12 +21,10 @@
     </style>
     
     <style name="styleButton">
+        <item name="android:textSize">15sp</item>
         <item name="android:layout_width">fill_parent</item>
         <item name="android:layout_height">wrap_content</item>
 	    <item name="android:onClick">chantClickHandler</item>
-    </style>
-    
-    <style name="styleMenu">
     </style>
     
 </resources>
