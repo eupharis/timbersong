@@ -1,316 +1,315 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-<!-- BEGIN GENERAL STRINGS -->
-
-    <string name="app_name">TimberSong</string>
-    <string name="app_desc">A Small Guide to the Chants\nOf the Timbers Army</string>
-    
-    <string name="about">About</string>
-    <string name="schedule">2012 Schedule</string>
-    <string name="scheduleUpdated">Times are PM PDT - Last updated: 03/24/12</string>
-    <string name="year">2012</string>
-    <string name="home">Home</string>
-    <string name="away">Away</string>
-
-    <string name="highwater_name">HIGHWATER\nLABS</string>
-    <string name="highwater_desc">Mobile Application Development\nPortland, OR\n2012</string>
-    <string name="highwater_website">Project Home:\n  http://highwaterlabs.com/timbersong.html</string>
-    <string name="highwater_source">Source Code:\n  https://github.com/eupharis/timbersong</string>  
-    <string name="version">v1.1</string>
-    
-<!-- BEGIN SCHEDULE STRINGS --> 
-
-    <string-array name="home_game_array">
-        <item>"03/12 @ 7:30 | Philadelphia"</item>
-        <item>"03/31 @ 7:00 | Real Salt Lake"</item>
-        <item>"04/07 @ 7:30 | Chivas"</item>
-        <item>"04/21 @ 7:30 | Sporting KC"</item>
-        <item>"05/05 @ 7:30 | Columbus"</item>
-        <item>"05/20 @ 4:00 | Chicago"</item>
-		<item>"05/23 @ 7:30 | Valencia"</item>
-		<item>"05/26 @ 7:00 | Vancouver"</item>
-		<item>"06/24 @ 2:00 | Seattle"</item>
-		<item>"07/03 @ 7:30 | San Jose"</item>
-		<item>"07/14 @ 8:00 | Los Angeles"</item>
-		<item>"08/05 @ 4:00 | Dallas"</item>
-        <item>"08/25 @ 7:30 | Vancouver"</item>
-        <item>"08/31 @ 7:30 | Colorado"</item>
-		<item>"09/15 @12:30 | Seattle"</item>
-		<item>"09/29 @ 7:30 | D.C. United"</item>
-		<item>"10/27 @ 3:30 | San Jose"</item>
-	</string-array>
-		
-	<string-array name="away_game_array">	
-        <item>"03/17 @ 6:00 | FC Dallas"</item>
-        <item>"03/24 @ 1:00 | New England"</item>
-        <item>"04/14 @ 7:30 | Los Angeles"</item>
-        <item>"04/28 @11:00AM | Montreal"</item>
-        <item>"05/15 @ 5:30 | Houston"</item>
-		<item>"06/17 @ 4:00 | Los Angeles"</item>
-        <item>"06/30 @ 6:00 | Colorado"</item>
-        <item>"07/07 @ 6:00 | Real Salt Lake"</item>
-        <item>"07/18 @ 1:00 | Chivas"</item>
-        <item>"07/21 @ 6:00 | Dallas"</item>
-        <item>"08/15 @ 4:30 | Toronto"</item>
-		<item>"08/19 @ 4:00 | New York"</item>
-		<item>"09/05 @ 6:00 | Colorado"</item>
-		<item>"09/19 @ 7:30 | San Jose"</item>
-		<item>"09/22 @ 5:00 | Real Salt Lake"</item>
-		<item>"10/07 @ 6:00 | Seattle"</item>
-		<item>"10/21 @ 4:00 | Vancouver"</item>
-    </string-array>
-    
-<!-- BEGIN CHANT_TITLE SECTION -->
-	<string name="chantTitleBuryMe">Bury Me in Timbers Green</string>
-	<string name="chantTitleCantHelp">Can\'t Help Falling in Love</string>
-	<string name="chantTitleWannaBe">I Wanna Be Rose City</string>
-    <string name="chantTitleMentalBarmy">Mental And Barmy</string>
-    <string name="chantTitleMentalGreen">Mental And Green</string>
-    <string name="chantTitleMighty">Mighty PTFC</string>
-	<string name="chantTitleNorthEnd">North End Noise</string>
-	<string name="chantTitleOnward">Onward Rose City</string>
-    <string name="chantTitleParty">Party In Portland</string>
-    <string name="chantTitleLoveYouSo">Portland We Love You So</string>    
-	<string name="chantTitlePortlandBoys">Portland Boys We Are Here</string>
-	<string name="chantTitleWhoaOh">Rose City, Whoa-Oh</string>
-	<string name="chantTitleSomos">Somos Timbers</string>
-	<string name="chantTitleTetris">Tetris</string>
-    <string name="chantTitleWinTheLeague">We\'re Gonna Win the League</string>
-    <string name="chantTitleSunshine">You Are My Sunshine</string>
-	
-	
-	
-<!-- BEGIN CHANT_TEXT SECTION -->
-    <string name="chantTextBuryMe">
-		And when I go\n
-	    And when I go\n
-		And when I go\n
-		Make sure I’m wearing green and gold\n
-		Bury me in Timbers Green, Ohh-ohh\n
-		Bury me in Timbers Gold, Ahh-ahh\n
-		Bury me in Timbers Green, Ohh-ohh\n
-		Bury me in Timbers Gold, Ahh-ahh\n
-    </string>
-    
-    <string name="chantTextCantHelp">
-		(At the 85th minute)\n\n
-		Wise men say\n
-		Only fools rush in\n
-		But I can\’t help\n
-		Falling in love with you\n
-		Take my hand\n
-		Take my whole life too\n
-		\'Cause I can’t help\n
-		Falling in love with you\n
-	</string>
-    
-    <string name="chantTextMentalBarmy">
-        We are Timbers Army\n
-		We are mental and we’re barmy\n
-		True supporters forever more\n
-    </string>
-    
-    <string name="chantTextMentalGreen">
-		(Tune: “You are my Sunshine”)\n
-		\n
-		We are the Portland\n
-		The Portland Timbers\n
-		We are mental\n
-		And we are green\n
-		We are the greatest\n
-		Football supporters\n
-		That the world has ever seen.\n
-    </string>
-    
-    <string name="chantTextMighty">
-    	Allez Allez Alo\n
-    	Allez Allez Alo\n
-		We are the Rose City\n
-		The mighty PTFC\n
-		(2x slow with overhead claps, 2x fast)\n
-    </string>
-    
-    <string name="chantTextNorthEnd">
-		(Follow capo to know which group you’re in)\n
-		\n
-		GROUP ONE: So who are we?\n
-		GROUP TWO: So who are we?\n
-		G1: We are the boys!\n
-		G2: We are the boys!\n
-		G1: We’re from the North End\n
-		and we’re here to make some noise!\n
-		G2: Make some noise!\n
-		G1: For our boys!\n
-		G2: For our boys!\n
-		G1: And you will see!\n
-		G2: And you will see!\n
-		All: We’re gonna jump and clap and sing\n
-		For victory!\n
-		And when we do… you’ll know that noise\n
-		Came from the North End\n
-		Portland Timbers Army Boys\n
-		Oh Rose City, oh Rose City\n
-		This is our team, the mighty P-T-F-C!
-    </string>
-    
-    <string name="chantTextOnward">
-        Whoooooa, Whoooooa, Whoooooa\n
-		Whoooooa, Whoooooa, Whoooooa\n
-		Whoooooa, Whoooooa, Whoooooa\n
-		On-ward Rose City\n
-		(2x with hands up, 2x clapping)\n
-    </string>
-    
-    <string name="chantTextParty">
-		We’ll sing for you Timbers\n
-		‘Til you finish the fight\n
-		There’s a party in Portland\n
-		No one’s sleeping tonight\n    
-    </string>
-
-	<string name="chantTextLoveYouSo">
-		Portland we love you so\n
-		And where you go we will follow\n
-		Portland we love you so\n
-		You’ve stolen our hearts. TIM-BERS!\n
-		\n
-		(Alternate slow overhead claps and fast)
-	</string>
-
-	<string name="chantTextPortlandBoys">
-		Portland boys, we are here\n
-		Whoa, Whoa\n
-		Portland boys, we are here\n
-		Whoa, Whoa\n
-		Portland boys, we are here\n
-		Shag your women, drink your beer!\n
-		Whoa, Whoa, Whoa\n
-		\n
-		Burn, destroy, wreck and kill\n
-		Whoa, Whoa\n
-		Burn, destroy, wreck and kill\n
-		Whoa, Whoa\n
-		Burn, destroy, wreck and kill\n
-		Portland Timbers bloody will!\n
-		Whoa, Whoa, Whoa\n
-		\n
-		Use your head, use your feet\n
-		Whoa, Whoa\n
-		Use your head, use your feet\n
-		Whoa, Whoa\n
-		Use your head, use your feet\n
-		10 [color of opposition] buggers at my feet!\n
-		Whoa, Whoa, Whoa\n
-		\n
-		We are green, we are white\n
-		Whoa, Whoa\n
-		We are green, we are white\n
-		Whoa, Whoa\n
-		We are green, we are white\n
-		We are bloody dynamite!\n
-		Whoa, Whoa, Whoa\n
-		\n		
-		(Only sing when directed by capos:)\n
-		Can you hear [the others] sing?\n
-		Noo, Noo\n
-		Can you hear [the others] sing?\n
-		Noo, Noo\n
-		Can you hear [the others] sing?\n
-		I can’t hear a bloody thing!\n
-		Whoa, Whoa, Whoa\n
-	</string>
-	
-    <string name="chantTextSomos">
-		Ole Ole Ole,\n
-		Ole Ole Ola,\n
-		Sooo\n
-		Somos Timbers\n
-		Portland Timbers\n
-		Vamos a ganar!\n
-    </string>
-    
-    <string name="chantTextTetris">
-        (Tune: “Tetris theme (Korobeiniki)”)\n
-        \n
-		Portland Timbers\n
-		We adore you\n
-		Portland Timbers\n
-		For you, WE SING!\n
-		Lo lo-lo-lo lo-lo-lo…\n    
-	</string>
-    
-    <string name="chantTextWhoaOh">
-	    Rose City, Whoa-oh\n
-		Rose City, Whoa-oh\n
-		Stand for the boys in green\n
-		The best you’ve ever seen\n
-	</string>
-	
-    <string name="chantTextWannaBe">
-        (Tune: “Anarchy in the UK”)\n\n
-		I am a Timbers fan!\n
-		And I am an Oregonian!\n
-		I know what I want and I know how to get it\n
-		I wanna destroy\n
-		Seattle scum\n
-		Cuz I wanna be\n
-		Rose City\n
-    </string>
-    
-    <string name="chantTextWinTheLeague">
-	    We’re gonna win the league\n
-		We’re gonna win the league\n
-		I don’t know how\n
-		I don’t know when\n
-		But we’re gonna win the league!    
-    </string>
-    
-    <string name="chantTextSunshine">
-        (At the 80th minute)\n
-        \n
-		You are my sunshine\n
-		My only sunshine\n
-		You make me happy\n
-		When skies are gray\n
-		You’ll never know dear,\n
-		How much I love you\n
-		So please don’t take my sunshine away\n
-	</string>
-	
-    <string-array name="chantLink">
-        <!-- Bury Me In Green and Gold -->
-        <item>http://m.youtube.com/watch?v=-2DqNaUKN0s</item>
-        <!--Can't Help Falling in Love-->
-		<item>http://m.youtube.com/watch?v=jFm-TzIWzt4</item>
-		<!--I Wanna Be Rose City-->
-		<item>http://m.youtube.com/watch?v=Alo6-VBYjI4</item>
-		<!--Mental And Barmy-->
-		<item>""</item>
-		<!--Mental And Green-->
-		<item>http://m.youtube.com/watch?v=JspzcONB1W4</item>
-		<!--Mighty PTFC-->
-		<item>""</item>
-		<!--North End Noise-->
-		<item>http://m.youtube.com/watch?v=Ko2eONX5NVs</item>
-		<!--Onward Rose City-->
-		<item>http://m.youtube.com/watch?v=Omi5UJQkGFE</item>
-		<!--Party In Portland-->
-		<item>""</item>
-		<!--Portland Boys We Are Here-->
-		<item>http://m.youtube.com/watch?v=ME1B_iPl7Lk</item>
-		<!--Portland We Love You So-->
-		<item>http://m.youtube.com/watch?v=wPJXamW_f_U</item>
-		<!--Rose City, Whoa-Oh-->
-		<item>""</item>
-		<!--Somos Timbers-->
-		<item>http://m.youtube.com/watch?v=oqhJAHx_080</item>
-		<!--Tetris-->
-		<item>http://m.youtube.com/watch?v=eH0OFRJkMKQ</item>
-		<!--We're Gonna Win the League-->
-		<item>""</item>
-		<!--You Are My Sunshine-->
-		<item>http://m.youtube.com/watch?v=a0gvdQ7E790</item>
-    </string-array>
-    
+	<app>
+		<name>TimberSong</name>
+		<description><![CDATA[
+			A Small Guide to the Chants
+			Of the Timbers Army
+		]]></description>
+		<urls>
+			<item label="Project Home">http://highwaterlabs.com/timbersong.html</item>
+			<item label="Source Code">https://github.com/eupharis/timbersong</item>
+		</urls>
+		<version>v1.1</version>
+		<author>
+			<name><![CDATA[
+				HIGHWATER
+				LABS
+			]]></name>
+			<description><![CDATA[
+				Mobile Application Development
+				Portland, OR
+				2012
+			]]></description>
+		</author>
+	</app>
+	<schedules>
+		<year>2012</year>
+		<name>2012 Schedule</name>
+		<updated>Times are PM PDT - Last updated: 03/24/12</updated>
+		<schedule type="home" label="Home">
+			<item><![CDATA[03/12 @ 7:30 | Philadelphia]]></item>
+			<item><![CDATA[03/31 @ 7:00 | Real Salt Lake]]></item>
+			<item><![CDATA[04/07 @ 7:30 | Chivas]]></item>
+			<item><![CDATA[04/21 @ 7:30 | Sporting KC]]></item>
+			<item><![CDATA[05/05 @ 7:30 | Columbus]]></item>
+			<item><![CDATA[05/20 @ 4:00 | Chicago]]></item>
+			<item><![CDATA[05/23 @ 7:30 | Valencia]]></item>
+			<item><![CDATA[05/26 @ 7:00 | Vancouver]]></item>
+			<item><![CDATA[06/24 @ 2:00 | Seattle]]></item>
+			<item><![CDATA[07/03 @ 7:30 | San Jose]]></item>
+			<item><![CDATA[07/14 @ 8:00 | Los Angeles]]></item>
+			<item><![CDATA[08/05 @ 4:00 | Dallas]]></item>
+			<item><![CDATA[08/25 @ 7:30 | Vancouver]]></item>
+			<item><![CDATA[08/31 @ 7:30 | Colorado]]></item>
+			<item><![CDATA[09/15 @12:30 | Seattle]]></item>
+			<item><![CDATA[09/29 @ 7:30 | D.C. United]]></item>
+			<item><![CDATA[10/27 @ 3:30 | San Jose]]></item>
+		</schedule>
+		<schedule type="away" label="Away">
+			<item><![CDATA[03/17 @ 6:00 | FC Dallas]]></item>
+			<item><![CDATA[03/24 @ 1:00 | New England]]></item>
+			<item><![CDATA[04/14 @ 7:30 | Los Angeles]]></item>
+			<item><![CDATA[04/28 @11:00 | Montreal]]></item>
+			<item><![CDATA[05/15 @ 5:30 | Houston]]></item>
+			<item><![CDATA[06/17 @ 4:00 | Los Angeles]]></item>
+			<item><![CDATA[06/30 @ 6:00 | Colorado]]></item>
+			<item><![CDATA[07/07 @ 6:00 | Real Salt Lake]]></item>
+			<item><![CDATA[07/18 @ 1:00 | Chivas]]></item>
+			<item><![CDATA[07/21 @ 6:00 | Dallas]]></item>
+			<item><![CDATA[08/15 @ 4:30 | Toronto]]></item>
+			<item><![CDATA[08/19 @ 4:00 | New York]]></item>
+			<item><![CDATA[09/05 @ 6:00 | Colorado]]></item>
+			<item><![CDATA[09/19 @ 7:30 | San Jose]]></item>
+			<item><![CDATA[09/22 @ 5:00 | Real Salt Lake]]></item>
+			<item><![CDATA[10/07 @ 6:00 | Seattle]]></item>
+			<item><![CDATA[10/21 @ 4:00 | Vancouver]]></item>
+		</schedule>
+	</schedules>
+	<chants>
+		<chant>
+			<name><![CDATA[Bury Me in Timbers Green]]></name>
+			<video><![CDATA[http://m.youtube.com/watch?v=-2DqNaUKN0s]]></video>
+			<lyrics><![CDATA[
+				And when I go
+				And when I go
+				And when I go
+				Make sure I'm wearing green and gold
+				Bury me in Timbers Green, Ohh-ohh
+				Bury me in Timbers Gold, Ahh-ahh
+				Bury me in Timbers Green, Ohh-ohh
+				Bury me in Timbers Gold, Ahh-ahh
+			]]></lyrics>
+		</chant>
+		<chant>
+			<name><![CDATA[Can't Help Falling in Love]]></name>
+			<video><![CDATA[http://m.youtube.com/watch?v=jFm-TzIWzt4]]></video>
+			<lyrics><![CDATA[
+				(At the 85th minute)
+				Wise men say
+				Only fools rush in
+				But I can't help
+				Falling in love with you
+				Take my hand
+				Take my whole life too
+				'Cause I can't help
+				Falling in love with you
+			]]></lyrics>
+		</chant>
+		<chant>
+			<name><![CDATA[I Wanna Be Rose City]]></name>
+			<video><![CDATA[http://m.youtube.com/watch?v=Alo6-VBYjI4]]></video>
+			<lyrics><![CDATA[
+		        (Tune: "Anarchy in the UK")
+				I am a Timbers fan!
+				And I am an Oregonian!
+				I know what I want and I know how to get it
+				I wanna destroy
+				Seattle scum
+				Cuz I wanna be
+				Rose City
+			]]></lyrics>
+		</chant>
+		<chant>
+			<name><![CDATA[Mental and Barmy]]></name>
+			<video><![CDATA[]]></video>
+			<lyrics><![CDATA[
+		        We are Timbers Army
+				We are mental and we're barmy
+				True supporters forever more
+			]]></lyrics>
+		</chant>
+		<chant>
+			<name><![CDATA[Mental and Green]]></name>
+			<video><![CDATA[http://m.youtube.com/watch?v=JspzcONB1W4]]></video>
+			<lyrics><![CDATA[
+				(Tune: "You are my Sunshine")
+				
+				We are the Portland
+				The Portland Timbers
+				We are mental
+				And we are green
+				We are the greatest
+				Football supporters
+				That the world has ever seen.
+			]]></lyrics>
+		</chant>
+		<chant>
+			<name><![CDATA[Mighty PTFC]]></name>
+			<video><![CDATA[]]></video>
+			<lyrics><![CDATA[
+		    	Allez Allez Alo
+		    	Allez Allez Alo
+				We are the Rose City
+				The mighty PTFC
+				(2x slow with overhead claps, 2x fast)
+			]]></lyrics>
+		</chant>
+		<chant>
+			<name><![CDATA[North End Noise]]></name>
+			<video><![CDATA[http://m.youtube.com/watch?v=Ko2eONX5NVs]]></video>
+			<lyrics><![CDATA[
+				(Follow capo to know which group you're in)
+				
+				GROUP ONE: So who are we?
+				GROUP TWO: So who are we?
+				G1: We are the boys!
+				G2: We are the boys!
+				G1: We're from the North End
+				and we're here to make some noise!
+				G2: Make some noise!
+				G1: For our boys!
+				G2: For our boys!
+				G1: And you will see!
+				G2: And you will see!
+				All: We're gonna jump and clap and sing
+				For victory!
+				And when we do… you'll know that noise
+				Came from the North End
+				Portland Timbers Army Boys
+				Oh Rose City, oh Rose City
+				This is our team, the mighty P-T-F-C!
+			]]></lyrics>
+		</chant>
+		<chant>
+			<name><![CDATA[Onward Rose City]]></name>
+			<video><![CDATA[http://m.youtube.com/watch?v=Omi5UJQkGFE]]></video>
+			<lyrics><![CDATA[
+		        Whoooooa, Whoooooa, Whoooooa
+				Whoooooa, Whoooooa, Whoooooa
+				Whoooooa, Whoooooa, Whoooooa
+				On-ward Rose City
+				(2x with hands up, 2x clapping)
+			]]></lyrics>
+		</chant>
+		<chant>
+			<name><![CDATA[Party in Portland]]></name>
+			<video><![CDATA[]]></video>
+			<lyrics><![CDATA[
+				We'll sing for you Timbers
+				‘Til you finish the fight
+				There's a party in Portland
+				No one's sleeping tonight    
+			]]></lyrics>
+		</chant>
+		<chant>
+			<name><![CDATA[Portland We Love You So]]></name>
+			<video><![CDATA[http://m.youtube.com/watch?v=wPJXamW_f_U]]></video>
+			<lyrics><![CDATA[
+				Portland we love you so
+				And where you go we will follow
+				Portland we love you so
+				You've stolen our hearts. TIM-BERS!
+				
+				(Alternate slow overhead claps and fast)
+			]]></lyrics>
+		</chant>
+		<chant>
+			<name><![CDATA[Portland Boys We Are Here]]></name>
+			<video><![CDATA[http://m.youtube.com/watch?v=ME1B_iPl7Lk]]></video>
+			<lyrics><![CDATA[
+				Portland boys, we are here
+				Whoa, Whoa
+				Portland boys, we are here
+				Whoa, Whoa
+				Portland boys, we are here
+				Shag your women, drink your beer!
+				Whoa, Whoa, Whoa
+				
+				Burn, destroy, wreck and kill
+				Whoa, Whoa
+				Burn, destroy, wreck and kill
+				Whoa, Whoa
+				Burn, destroy, wreck and kill
+				Portland Timbers bloody will!
+				Whoa, Whoa, Whoa
+				
+				Use your head, use your feet
+				Whoa, Whoa
+				Use your head, use your feet
+				Whoa, Whoa
+				Use your head, use your feet
+				10 [color of opposition] buggers at my feet!
+				Whoa, Whoa, Whoa
+				
+				We are green, we are white
+				Whoa, Whoa
+				We are green, we are white
+				Whoa, Whoa
+				We are green, we are white
+				We are bloody dynamite!
+				Whoa, Whoa, Whoa
+						
+				(Only sing when directed by capos:)
+				Can you hear [the others] sing?
+				Noo, Noo
+				Can you hear [the others] sing?
+				Noo, Noo
+				Can you hear [the others] sing?
+				I can't hear a bloody thing!
+				Whoa, Whoa, Whoa
+			]]></lyrics>
+		</chant>
+		<chant>
+			<name><![CDATA[Rose City, Whoa-Oh]]></name>
+			<video><![CDATA[]]></video>
+			<lyrics><![CDATA[
+			    Rose City, Whoa-oh
+				Rose City, Whoa-oh
+				Stand for the boys in green
+				The best you've ever seen
+			]]></lyrics>
+		</chant>
+		<chant>
+			<name><![CDATA[Somos Timbers]]></name>
+			<video><![CDATA[http://m.youtube.com/watch?v=oqhJAHx_080]]></video>
+			<lyrics><![CDATA[
+				Ole Ole Ole,
+				Ole Ole Ola,
+				Sooo
+				Somos Timbers
+				Portland Timbers
+				Vamos a ganar!
+			]]></lyrics>
+		</chant>
+		<chant>
+			<name><![CDATA[Tetris]]></name>
+			<video><![CDATA[http://m.youtube.com/watch?v=eH0OFRJkMKQ]]></video>
+			<lyrics><![CDATA[
+		        (Tune: "Tetris theme (Korobeiniki)")
+		        
+				Portland Timbers
+				We adore you
+				Portland Timbers
+				For you, WE SING!
+				Lo lo-lo-lo lo-lo-lo...
+			]]></lyrics>
+		</chant>
+		<chant>
+			<name><![CDATA[We're Gonna Win the League]]></name>
+			<video><![CDATA[]]></video>
+			<lyrics><![CDATA[
+			    We're gonna win the league
+				We're gonna win the league
+				I don't know how
+				I don't know when
+				But we're gonna win the league!
+			]]></lyrics>
+		</chant>
+		<chant>
+			<name><![CDATA[You Are My Sunshine]]></name>
+			<video><![CDATA[http://m.youtube.com/watch?v=a0gvdQ7E790]]></video>
+			<lyrics><![CDATA[
+		        (At the 80th minute)
+		        
+				You are my sunshine
+				My only sunshine
+				You make me happy
+				When skies are gray
+				You'll never know dear,
+				How much I love you
+				So please don't take my sunshine away
+			]]></lyrics>
+		</chant>
+	</chants>
 </resources>
