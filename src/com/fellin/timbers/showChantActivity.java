@@ -15,6 +15,7 @@ public class showChantActivity extends BaseActivity {
 	public void onCreate(Bundle savedInstanceState) {
 		try {
 			super.onCreate(savedInstanceState);
+			
 			Integer chantId = 0;
 			
 			String chantTitle = "";
@@ -28,13 +29,16 @@ public class showChantActivity extends BaseActivity {
 			
 			String[] chantLinkList = getResources().getStringArray(R.array.chantLink);
 			
+			
 			TextView showChantTitle = (TextView) findViewById(R.id.showChantTitle);
 			TextView showChantText = (TextView) findViewById(R.id.showChantText);
 			TextView showChantLink = (TextView) findViewById(R.id.showChantLink);
 			
 			Log.d(TAG, String.valueOf(chantId));
 			
-			   
+			SimpleXmlPullApp sxp = new SimpleXmlPullApp(this); 
+			
+			
 			switch (chantId) {
 				case R.id.chantTitleBuryMe:
 					chantTitle = getString(R.string.chantTitleBuryMe);

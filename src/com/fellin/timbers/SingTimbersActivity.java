@@ -16,6 +16,7 @@ public class SingTimbersActivity extends BaseActivity {
         setContentView(R.layout.main);    
     }
     
+     
     public void chantClickHandler(View v) {
     	Intent intent = new Intent(this, showChantActivity.class);
     	intent.putExtra("chantId", v.getId());    	  	  	

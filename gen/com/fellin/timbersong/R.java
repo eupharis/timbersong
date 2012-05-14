@@ -9,11 +9,11 @@ package com.fellin.timbersong;
 
 public final class R {
     public static final class array {
-        public static final int away_game_array=0x7f050001;
-        public static final int chantLink=0x7f050002;
+        public static final int away_game_array=0x7f060001;
+        public static final int chantLink=0x7f060002;
         /**  BEGIN SCHEDULE STRINGS 
          */
-        public static final int home_game_array=0x7f050000;
+        public static final int home_game_array=0x7f060000;
     }
     public static final class attr {
     }
@@ -23,35 +23,32 @@ public final class R {
         public static final int ic_timbersong=0x7f020002;
     }
     public static final class id {
-        public static final int TabHost1=0x7f060018;
-        public static final int about=0x7f06001c;
-        public static final int app=0x7f060000;
-        public static final int chantTitleBuryMe=0x7f060008;
-        public static final int chantTitleCantHelp=0x7f060009;
-        public static final int chantTitleLoveYouSo=0x7f060012;
-        public static final int chantTitleMentalBarmy=0x7f06000b;
-        public static final int chantTitleMentalGreen=0x7f06000c;
-        public static final int chantTitleMighty=0x7f06000d;
-        public static final int chantTitleNorthEnd=0x7f06000e;
-        public static final int chantTitleOnward=0x7f06000f;
-        public static final int chantTitleParty=0x7f060010;
-        public static final int chantTitlePortlandBoys=0x7f060011;
-        public static final int chantTitleSomos=0x7f060014;
-        public static final int chantTitleSunshine=0x7f060017;
-        public static final int chantTitleTetris=0x7f060015;
-        public static final int chantTitleWannaBe=0x7f06000a;
-        public static final int chantTitleWhoaOh=0x7f060013;
-        public static final int chantTitleWinTheLeague=0x7f060016;
-        public static final int chants=0x7f060002;
-        public static final int gameListAway=0x7f06001a;
-        public static final int gameListHome=0x7f060019;
-        public static final int name_version=0x7f060003;
-        public static final int scheduleOption=0x7f06001b;
-        public static final int schedules=0x7f060001;
-        public static final int scroller=0x7f060004;
-        public static final int showChantLink=0x7f060007;
-        public static final int showChantText=0x7f060006;
-        public static final int showChantTitle=0x7f060005;
+        public static final int TabHost1=0x7f090015;
+        public static final int about=0x7f090019;
+        public static final int chantTitleBuryMe=0x7f090005;
+        public static final int chantTitleCantHelp=0x7f090006;
+        public static final int chantTitleLoveYouSo=0x7f09000f;
+        public static final int chantTitleMentalBarmy=0x7f090008;
+        public static final int chantTitleMentalGreen=0x7f090009;
+        public static final int chantTitleMighty=0x7f09000a;
+        public static final int chantTitleNorthEnd=0x7f09000b;
+        public static final int chantTitleOnward=0x7f09000c;
+        public static final int chantTitleParty=0x7f09000d;
+        public static final int chantTitlePortlandBoys=0x7f09000e;
+        public static final int chantTitleSomos=0x7f090011;
+        public static final int chantTitleSunshine=0x7f090014;
+        public static final int chantTitleTetris=0x7f090012;
+        public static final int chantTitleWannaBe=0x7f090007;
+        public static final int chantTitleWhoaOh=0x7f090010;
+        public static final int chantTitleWinTheLeague=0x7f090013;
+        public static final int gameListAway=0x7f090017;
+        public static final int gameListHome=0x7f090016;
+        public static final int name_version=0x7f090000;
+        public static final int scheduleOption=0x7f090018;
+        public static final int scroller=0x7f090001;
+        public static final int showChantLink=0x7f090004;
+        public static final int showChantText=0x7f090003;
+        public static final int showChantTitle=0x7f090002;
     }
     public static final class layout {
         public static final int about=0x7f030000;
@@ -63,61 +60,66 @@ public final class R {
         public static final int options_menu=0x7f080000;
     }
     public static final class string {
-        public static final int about=0x7f040002;
-        public static final int app_desc=0x7f040001;
+        public static final int about=0x7f050002;
+        public static final int app_desc=0x7f050001;
         /**  BEGIN GENERAL STRINGS 
          */
-        public static final int app_name=0x7f040000;
-        public static final int away=0x7f040007;
+        public static final int app_name=0x7f050000;
+        public static final int away=0x7f050007;
         /**  BEGIN CHANT_TEXT SECTION 
          */
-        public static final int chantTextBuryMe=0x7f04001d;
-        public static final int chantTextCantHelp=0x7f04001e;
-        public static final int chantTextLoveYouSo=0x7f040025;
-        public static final int chantTextMentalBarmy=0x7f04001f;
-        public static final int chantTextMentalGreen=0x7f040020;
-        public static final int chantTextMighty=0x7f040021;
-        public static final int chantTextNorthEnd=0x7f040022;
-        public static final int chantTextOnward=0x7f040023;
-        public static final int chantTextParty=0x7f040024;
-        public static final int chantTextPortlandBoys=0x7f040026;
-        public static final int chantTextSomos=0x7f040027;
-        public static final int chantTextSunshine=0x7f04002c;
-        public static final int chantTextTetris=0x7f040028;
-        public static final int chantTextWannaBe=0x7f04002a;
-        public static final int chantTextWhoaOh=0x7f040029;
-        public static final int chantTextWinTheLeague=0x7f04002b;
+        public static final int chantTextBuryMe=0x7f05001d;
+        public static final int chantTextCantHelp=0x7f05001e;
+        public static final int chantTextLoveYouSo=0x7f050025;
+        public static final int chantTextMentalBarmy=0x7f05001f;
+        public static final int chantTextMentalGreen=0x7f050020;
+        public static final int chantTextMighty=0x7f050021;
+        public static final int chantTextNorthEnd=0x7f050022;
+        public static final int chantTextOnward=0x7f050023;
+        public static final int chantTextParty=0x7f050024;
+        public static final int chantTextPortlandBoys=0x7f050026;
+        public static final int chantTextSomos=0x7f050027;
+        public static final int chantTextSunshine=0x7f05002c;
+        public static final int chantTextTetris=0x7f050028;
+        public static final int chantTextWannaBe=0x7f05002a;
+        public static final int chantTextWhoaOh=0x7f050029;
+        public static final int chantTextWinTheLeague=0x7f05002b;
         /**  BEGIN CHANT_TITLE SECTION 
          */
-        public static final int chantTitleBuryMe=0x7f04000d;
-        public static final int chantTitleCantHelp=0x7f04000e;
-        public static final int chantTitleLoveYouSo=0x7f040016;
-        public static final int chantTitleMentalBarmy=0x7f040010;
-        public static final int chantTitleMentalGreen=0x7f040011;
-        public static final int chantTitleMighty=0x7f040012;
-        public static final int chantTitleNorthEnd=0x7f040013;
-        public static final int chantTitleOnward=0x7f040014;
-        public static final int chantTitleParty=0x7f040015;
-        public static final int chantTitlePortlandBoys=0x7f040017;
-        public static final int chantTitleSomos=0x7f040019;
-        public static final int chantTitleSunshine=0x7f04001c;
-        public static final int chantTitleTetris=0x7f04001a;
-        public static final int chantTitleWannaBe=0x7f04000f;
-        public static final int chantTitleWhoaOh=0x7f040018;
-        public static final int chantTitleWinTheLeague=0x7f04001b;
-        public static final int highwater_desc=0x7f040009;
-        public static final int highwater_name=0x7f040008;
-        public static final int highwater_source=0x7f04000b;
-        public static final int highwater_website=0x7f04000a;
-        public static final int home=0x7f040006;
-        public static final int schedule=0x7f040003;
-        public static final int scheduleUpdated=0x7f040004;
-        public static final int version=0x7f04000c;
-        public static final int year=0x7f040005;
+        public static final int chantTitleBuryMe=0x7f05000d;
+        public static final int chantTitleCantHelp=0x7f05000e;
+        public static final int chantTitleLoveYouSo=0x7f050016;
+        public static final int chantTitleMentalBarmy=0x7f050010;
+        public static final int chantTitleMentalGreen=0x7f050011;
+        public static final int chantTitleMighty=0x7f050012;
+        public static final int chantTitleNorthEnd=0x7f050013;
+        public static final int chantTitleOnward=0x7f050014;
+        public static final int chantTitleParty=0x7f050015;
+        public static final int chantTitlePortlandBoys=0x7f050017;
+        public static final int chantTitleSomos=0x7f050019;
+        public static final int chantTitleSunshine=0x7f05001c;
+        public static final int chantTitleTetris=0x7f05001a;
+        public static final int chantTitleWannaBe=0x7f05000f;
+        public static final int chantTitleWhoaOh=0x7f050018;
+        public static final int chantTitleWinTheLeague=0x7f05001b;
+        public static final int highwater_desc=0x7f050009;
+        public static final int highwater_name=0x7f050008;
+        public static final int highwater_source=0x7f05000b;
+        public static final int highwater_website=0x7f05000a;
+        public static final int home=0x7f050006;
+        public static final int schedule=0x7f050003;
+        public static final int scheduleUpdated=0x7f050004;
+        public static final int version=0x7f05000c;
+        public static final int year=0x7f050005;
     }
     public static final class style {
         public static final int styleButton=0x7f070002;
         public static final int styleText=0x7f070001;
         public static final int styleTitle=0x7f070000;
+    }
+    public static final class xml {
+        public static final int app_data=0x7f040000;
+        public static final int chant_data=0x7f040001;
+        public static final int schedule_data=0x7f040002;
     }
 }
