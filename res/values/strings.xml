@@ -29,141 +29,145 @@
 		<updated>Times are Pacific - Last updated: 03/24/12</updated>
 		<schedule type="home" label="Home">
 			<item>
-				<date><![CDATA[2012-03-12 19:30:00]]></date>
-			<team><![CDATA[Philadelphia]]></team>
+				<date><![CDATA[2012-03-12T19:30:00PST]]></date>
+				<team><![CDATA[Philadelphia]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-03-31 19:00:00]]></date>
+				<date><![CDATA[2012-03-31T19:00:00PST]]></date>
 				<team><![CDATA[Real Salt Lake]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-04-07 19:30:00]]></date>
+				<date><![CDATA[2012-04-07T19:30:00PST]]></date>
 				<team><![CDATA[Chivas]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-04-21 19:30:00]]></date>
+				<date><![CDATA[2012-04-21T19:30:00PST]]></date>
 				<team><![CDATA[Sporting KC]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-05-05 19:30:00]]></date>
+				<date><![CDATA[2012-05-05T19:30:00PST]]></date>
 				<team><![CDATA[Columbus]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-05-20 16:00:00]]></date>
+				<date><![CDATA[2012-05-20T16:00:00PST]]></date>
 				<team><![CDATA[Chicago]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-05-23 19:30:00]]></date>
+				<date><![CDATA[2012-05-23T19:30:00PST]]></date>
 				<team><![CDATA[Valencia]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-05-26 19:00:00]]></date>
+				<date><![CDATA[2012-05-26T19:00:00PST]]></date>
 				<team><![CDATA[Vancouver]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-06-24 14:00:00]]></date>
+				<date><![CDATA[2012-06-24T14:00:00PST]]></date>
 				<team><![CDATA[Seattle]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-07-03 19:30:00]]></date>
+				<date><![CDATA[2012-07-03T19:30:00PST]]></date>
 				<team><![CDATA[San Jose]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-07-14 20:00:00]]></date>
+				<date><![CDATA[2012-07-14T20:00:00PST]]></date>
 				<team><![CDATA[Los Angeles]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-08-05 16:00:00]]></date>
+				<date><![CDATA[2012-07-28T20:00:00PST]]></date>
+				<team><![CDATA[Chivas]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-08-05T16:00:00PST]]></date>
 				<team><![CDATA[Dallas]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-08-25 19:30:00]]></date>
+				<date><![CDATA[2012-08-25T19:30:00PST]]></date>
 				<team><![CDATA[Vancouver]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-08-31 19:30:00]]></date>
+				<date><![CDATA[2012-08-31T19:30:00PST]]></date>
 				<team><![CDATA[Colorado]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-09-15 12:30:00]]></date>
+				<date><![CDATA[2012-09-15T12:30:00PST]]></date>
 				<team><![CDATA[Seattle]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-09-29 19:30:00]]></date>
+				<date><![CDATA[2012-09-29T19:30:00PST]]></date>
 				<team><![CDATA[D.C. United]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-10-27 15:30:00]]></date>
+				<date><![CDATA[2012-10-27T15:30:00PST]]></date>
 				<team><![CDATA[San Jose]]></team>
 			</item>
 		</schedule>
 		<schedule type="away" label="Away">
 			<item>
-				<date><![CDATA[2012-03-17 18:00:00]]></date>
+				<date><![CDATA[2012-03-17T18:00:00PST]]></date>
 				<team><![CDATA[FC Dallas]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-03-24 13:00:00]]></date>
+				<date><![CDATA[2012-03-24T13:00:00PST]]></date>
 				<team><![CDATA[New England]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-04-14 19:30:00]]></date>
+				<date><![CDATA[2012-04-14T19:30:00PST]]></date>
 				<team><![CDATA[Los Angeles]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-04-28 11:00:00]]></date>
+				<date><![CDATA[2012-04-28T11:00:00PST]]></date>
 				<team><![CDATA[Montreal]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-05-15 17:30:00]]></date>
+				<date><![CDATA[2012-05-15T17:30:00PST]]></date>
 				<team><![CDATA[Houston]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-06-17 16:00:00]]></date>
+				<date><![CDATA[2012-06-17T16:00:00PST]]></date>
 				<team><![CDATA[Los Angeles]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-06-30 18:00:00]]></date>
+				<date><![CDATA[2012-06-30T18:00:00PST]]></date>
 				<team><![CDATA[Colorado]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-07-07 18:00:00]]></date>
+				<date><![CDATA[2012-07-07T18:00:00PST]]></date>
 				<team><![CDATA[Real Salt Lake]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-07-18 13:00:00]]></date>
+				<date><![CDATA[2012-07-18T13:00:00PST]]></date>
 				<team><![CDATA[Chivas]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-07-21 18:00:00]]></date>
+				<date><![CDATA[2012-07-21T18:00:00PST]]></date>
 				<team><![CDATA[Dallas]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-08-15 16:30:00]]></date>
+				<date><![CDATA[2012-08-15T16:30:00PST]]></date>
 				<team><![CDATA[Toronto]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-08-19 16:00:00]]></date>
+				<date><![CDATA[2012-08-19T16:00:00PST]]></date>
 				<team><![CDATA[New York]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-09-05 18:00:00]]></date>
+				<date><![CDATA[2012-09-05T18:00:00PST]]></date>
 				<team><![CDATA[Colorado]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-09-19 19:30:00]]></date>
+				<date><![CDATA[2012-09-19T19:30:00PST]]></date>
 				<team><![CDATA[San Jose]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-09-22 17:00:00]]></date>
+				<date><![CDATA[2012-09-22T17:00:00PST]]></date>
 				<team><![CDATA[Real Salt Lake]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-10-07 18:00:00]]></date>
+				<date><![CDATA[2012-10-07T18:00:00PST]]></date>
 				<team><![CDATA[Seattle]]></team>
 			</item>
 			<item>
-				<date><![CDATA[2012-10-21 16:00:00]]></date>
+				<date><![CDATA[2012-10-21T16:00:00PST]]></date>
 				<team><![CDATA[Vancouver]]></team>
 			</item>
 		</schedule>
