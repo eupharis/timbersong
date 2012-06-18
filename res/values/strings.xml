@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<<<<<<< HEAD
 
 <!-- BEGIN GENERAL STRINGS -->
 
@@ -314,3 +315,424 @@
     </string-array>
     
 </resources>
+=======
+	<app>
+		<name>TimberSong</name>
+		<description><![CDATA[
+			A Small Guide to the Chants
+			Of the Timbers Army
+		]]></description>
+		<urls>
+			<item label="Project Home">http://highwaterlabs.com/timbersong.html</item>
+			<item label="Source Code">https://github.com/eupharis/timbersong</item>
+		</urls>
+		<version>v1.1</version>
+		<author>
+			<name><![CDATA[
+				HIGHWATER
+				LABS
+			]]></name>
+			<description><![CDATA[
+				Mobile Application Development
+				Portland, OR
+				2012
+			]]></description>
+		</author>
+	</app>
+	<schedules>
+		<year>2012</year>
+		<name>2012 Schedule</name>
+		<updated>Times are Pacific - Last updated: 03/24/12</updated>
+		<schedule type="home" label="Home">
+			<item>
+				<date><![CDATA[2012-03-12T19:30:00PST]]></date>
+				<team><![CDATA[Philadelphia]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-03-31T19:00:00PST]]></date>
+				<team><![CDATA[Real Salt Lake]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-04-07T19:30:00PST]]></date>
+				<team><![CDATA[Chivas]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-04-21T19:30:00PST]]></date>
+				<team><![CDATA[Sporting KC]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-05-05T19:30:00PST]]></date>
+				<team><![CDATA[Columbus]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-05-20T16:00:00PST]]></date>
+				<team><![CDATA[Chicago]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-05-23T19:30:00PST]]></date>
+				<team><![CDATA[Valencia]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-05-26T19:00:00PST]]></date>
+				<team><![CDATA[Vancouver]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-06-24T14:00:00PST]]></date>
+				<team><![CDATA[Seattle]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-07-03T19:30:00PST]]></date>
+				<team><![CDATA[San Jose]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-07-14T20:00:00PST]]></date>
+				<team><![CDATA[Los Angeles]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-07-28T20:00:00PST]]></date>
+				<team><![CDATA[Chivas]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-08-05T16:00:00PST]]></date>
+				<team><![CDATA[Dallas]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-08-25T19:30:00PST]]></date>
+				<team><![CDATA[Vancouver]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-08-31T19:30:00PST]]></date>
+				<team><![CDATA[Colorado]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-09-15T12:30:00PST]]></date>
+				<team><![CDATA[Seattle]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-09-29T19:30:00PST]]></date>
+				<team><![CDATA[D.C. United]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-10-27T15:30:00PST]]></date>
+				<team><![CDATA[San Jose]]></team>
+			</item>
+		</schedule>
+		<schedule type="away" label="Away">
+			<item>
+				<date><![CDATA[2012-03-17T18:00:00PST]]></date>
+				<team><![CDATA[FC Dallas]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-03-24T13:00:00PST]]></date>
+				<team><![CDATA[New England]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-04-14T19:30:00PST]]></date>
+				<team><![CDATA[Los Angeles]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-04-28T11:00:00PST]]></date>
+				<team><![CDATA[Montreal]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-05-15T17:30:00PST]]></date>
+				<team><![CDATA[Houston]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-06-17T16:00:00PST]]></date>
+				<team><![CDATA[Los Angeles]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-06-30T18:00:00PST]]></date>
+				<team><![CDATA[Colorado]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-07-07T18:00:00PST]]></date>
+				<team><![CDATA[Real Salt Lake]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-07-18T13:00:00PST]]></date>
+				<team><![CDATA[Chivas]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-07-21T18:00:00PST]]></date>
+				<team><![CDATA[Dallas]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-08-15T16:30:00PST]]></date>
+				<team><![CDATA[Toronto]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-08-19T16:00:00PST]]></date>
+				<team><![CDATA[New York]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-09-05T18:00:00PST]]></date>
+				<team><![CDATA[Colorado]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-09-19T19:30:00PST]]></date>
+				<team><![CDATA[San Jose]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-09-22T17:00:00PST]]></date>
+				<team><![CDATA[Real Salt Lake]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-10-07T18:00:00PST]]></date>
+				<team><![CDATA[Seattle]]></team>
+			</item>
+			<item>
+				<date><![CDATA[2012-10-21T16:00:00PST]]></date>
+				<team><![CDATA[Vancouver]]></team>
+			</item>
+		</schedule>
+	</schedules>
+	<chants>
+		<chant>
+			<name><![CDATA[Bury Me in Timbers Green]]></name>
+			<video><![CDATA[http://m.youtube.com/watch?v=-2DqNaUKN0s]]></video>
+			<lyrics><![CDATA[
+				And when I go
+				And when I go
+				And when I go
+				Make sure I'm wearing green and gold
+				Bury me in Timbers Green, Ohh-ohh
+				Bury me in Timbers Gold, Ahh-ahh
+				Bury me in Timbers Green, Ohh-ohh
+				Bury me in Timbers Gold, Ahh-ahh
+			]]></lyrics>
+		</chant>
+		<chant>
+			<name><![CDATA[Can't Help Falling in Love]]></name>
+			<video><![CDATA[http://m.youtube.com/watch?v=jFm-TzIWzt4]]></video>
+			<lyrics><![CDATA[
+				(At the 85th minute)
+				Wise men say
+				Only fools rush in
+				But I can't help
+				Falling in love with you
+				Take my hand
+				Take my whole life too
+				'Cause I can't help
+				Falling in love with you
+			]]></lyrics>
+		</chant>
+		<chant>
+			<name><![CDATA[I Wanna Be Rose City]]></name>
+			<video><![CDATA[http://m.youtube.com/watch?v=Alo6-VBYjI4]]></video>
+			<lyrics><![CDATA[
+		        (Tune: "Anarchy in the UK")
+				I am a Timbers fan!
+				And I am an Oregonian!
+				I know what I want and I know how to get it
+				I wanna destroy
+				Seattle scum
+				Cuz I wanna be
+				Rose City
+			]]></lyrics>
+		</chant>
+		<chant>
+			<name><![CDATA[Mental and Barmy]]></name>
+			<video><![CDATA[]]></video>
+			<lyrics><![CDATA[
+		        We are Timbers Army
+				We are mental and we're barmy
+				True supporters forever more
+			]]></lyrics>
+		</chant>
+		<chant>
+			<name><![CDATA[Mental and Green]]></name>
+			<video><![CDATA[http://m.youtube.com/watch?v=JspzcONB1W4]]></video>
+			<lyrics><![CDATA[
+				(Tune: "You are my Sunshine")
+				
+				We are the Portland
+				The Portland Timbers
+				We are mental
+				And we are green
+				We are the greatest
+				Football supporters
+				That the world has ever seen.
+			]]></lyrics>
+		</chant>
+		<chant>
+			<name><![CDATA[Mighty PTFC]]></name>
+			<video><![CDATA[]]></video>
+			<lyrics><![CDATA[
+		    	Allez Allez Alo
+		    	Allez Allez Alo
+				We are the Rose City
+				The mighty PTFC
+				(2x slow with overhead claps, 2x fast)
+			]]></lyrics>
+		</chant>
+		<chant>
+			<name><![CDATA[North End Noise]]></name>
+			<video><![CDATA[http://m.youtube.com/watch?v=Ko2eONX5NVs]]></video>
+			<lyrics><![CDATA[
+				(Follow capo to know which group you're in)
+				
+				GROUP ONE: So who are we?
+				GROUP TWO: So who are we?
+				G1: We are the boys!
+				G2: We are the boys!
+				G1: We're from the North End
+				and we're here to make some noise!
+				G2: Make some noise!
+				G1: For our boys!
+				G2: For our boys!
+				G1: And you will see!
+				G2: And you will see!
+				All: We're gonna jump and clap and sing
+				For victory!
+				And when we do… you'll know that noise
+				Came from the North End
+				Portland Timbers Army Boys
+				Oh Rose City, oh Rose City
+				This is our team, the mighty P-T-F-C!
+			]]></lyrics>
+		</chant>
+		<chant>
+			<name><![CDATA[Onward Rose City]]></name>
+			<video><![CDATA[http://m.youtube.com/watch?v=Omi5UJQkGFE]]></video>
+			<lyrics><![CDATA[
+		        Whoooooa, Whoooooa, Whoooooa
+				Whoooooa, Whoooooa, Whoooooa
+				Whoooooa, Whoooooa, Whoooooa
+				On-ward Rose City
+				(2x with hands up, 2x clapping)
+			]]></lyrics>
+		</chant>
+		<chant>
+			<name><![CDATA[Party in Portland]]></name>
+			<video><![CDATA[]]></video>
+			<lyrics><![CDATA[
+				We'll sing for you Timbers
+				‘Til you finish the fight
+				There's a party in Portland
+				No one's sleeping tonight    
+			]]></lyrics>
+		</chant>
+		<chant>
+			<name><![CDATA[Portland We Love You So]]></name>
+			<video><![CDATA[http://m.youtube.com/watch?v=wPJXamW_f_U]]></video>
+			<lyrics><![CDATA[
+				Portland we love you so
+				And where you go we will follow
+				Portland we love you so
+				You've stolen our hearts. TIM-BERS!
+				
+				(Alternate slow overhead claps and fast)
+			]]></lyrics>
+		</chant>
+		<chant>
+			<name><![CDATA[Portland Boys We Are Here]]></name>
+			<video><![CDATA[http://m.youtube.com/watch?v=ME1B_iPl7Lk]]></video>
+			<lyrics><![CDATA[
+				Portland boys, we are here
+				Whoa, Whoa
+				Portland boys, we are here
+				Whoa, Whoa
+				Portland boys, we are here
+				Shag your women, drink your beer!
+				Whoa, Whoa, Whoa
+				
+				Burn, destroy, wreck and kill
+				Whoa, Whoa
+				Burn, destroy, wreck and kill
+				Whoa, Whoa
+				Burn, destroy, wreck and kill
+				Portland Timbers bloody will!
+				Whoa, Whoa, Whoa
+				
+				Use your head, use your feet
+				Whoa, Whoa
+				Use your head, use your feet
+				Whoa, Whoa
+				Use your head, use your feet
+				10 [color of opposition] buggers at my feet!
+				Whoa, Whoa, Whoa
+				
+				We are green, we are white
+				Whoa, Whoa
+				We are green, we are white
+				Whoa, Whoa
+				We are green, we are white
+				We are bloody dynamite!
+				Whoa, Whoa, Whoa
+						
+				(Only sing when directed by capos:)
+				Can you hear [the others] sing?
+				Noo, Noo
+				Can you hear [the others] sing?
+				Noo, Noo
+				Can you hear [the others] sing?
+				I can't hear a bloody thing!
+				Whoa, Whoa, Whoa
+			]]></lyrics>
+		</chant>
+		<chant>
+			<name><![CDATA[Rose City, Whoa-Oh]]></name>
+			<video><![CDATA[]]></video>
+			<lyrics><![CDATA[
+			    Rose City, Whoa-oh
+				Rose City, Whoa-oh
+				Stand for the boys in green
+				The best you've ever seen
+			]]></lyrics>
+		</chant>
+		<chant>
+			<name><![CDATA[Somos Timbers]]></name>
+			<video><![CDATA[http://m.youtube.com/watch?v=oqhJAHx_080]]></video>
+			<lyrics><![CDATA[
+				Ole Ole Ole,
+				Ole Ole Ola,
+				Sooo
+				Somos Timbers
+				Portland Timbers
+				Vamos a ganar!
+			]]></lyrics>
+		</chant>
+		<chant>
+			<name><![CDATA[Tetris]]></name>
+			<video><![CDATA[http://m.youtube.com/watch?v=eH0OFRJkMKQ]]></video>
+			<lyrics><![CDATA[
+		        (Tune: "Tetris theme (Korobeiniki)")
+		        
+				Portland Timbers
+				We adore you
+				Portland Timbers
+				For you, WE SING!
+				Lo lo-lo-lo lo-lo-lo...
+			]]></lyrics>
+		</chant>
+		<chant>
+			<name><![CDATA[We're Gonna Win the League]]></name>
+			<video><![CDATA[]]></video>
+			<lyrics><![CDATA[
+			    We're gonna win the league
+				We're gonna win the league
+				I don't know how
+				I don't know when
+				But we're gonna win the league!
+			]]></lyrics>
+		</chant>
+		<chant>
+			<name><![CDATA[You Are My Sunshine]]></name>
+			<video><![CDATA[http://m.youtube.com/watch?v=a0gvdQ7E790]]></video>
+			<lyrics><![CDATA[
+		        (At the 80th minute)
+		        
+				You are my sunshine
+				My only sunshine
+				You make me happy
+				When skies are gray
+				You'll never know dear,
+				How much I love you
+				So please don't take my sunshine away
+			]]></lyrics>
+		</chant>
+	</chants>
+</resources>
+>>>>>>> 0162da2638854d0f52c57a89fe4c865a145db332

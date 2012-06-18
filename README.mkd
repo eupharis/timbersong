@@ -1,6 +1,6 @@
-Name: TimberSong
+#TimberSong#
 Version: 1.1
-By: Dan Fellin - HighwaterLabs
+By Dan Fellin
 
 TimberSong is a small Android App that contains the chants of the Timbers Army. It also has a copy of the 2012 Timbers schedule.
 
@@ -12,10 +12,12 @@ Here's a list of recent changes for 1.1:
 + Made the Schedule look prettier. Added tabs for Home/Away Games.
 + Various behind-the-scenes improvements to decrease size/increase performance.
 
-The project is open-source and any contributions are most welcome.
+The project is open-source and any contributions are most welcome. Special thanks to Mike Pacific for porting it to the iPhone! Its source is also hosted on github: [link](https://github.com/mpacific/timbersong)
 
-The project page is on Highwater Labs' website [here](http://www.highwaterlabs.com/apps/timbersong.html).
+[Project Homepage](http://www.highwaterlabs.com/apps/timbersong.html).
 
-The app is on Google Play [here](https://play.google.com/store/apps/details?id=com.fellin.timbersong).
+##Get the App##
 
-f you enjoy this app, please consider making a donation. Money enables me to work on new, improved versions and cool, new apps. Go [here](http://highwaterlabs.com/donate.html) to donate.
+Android: [Google Play](https://play.google.com/store/apps/details?id=com.fellin.timbersong) <br /> iPhone: [App Store](http://itunes.apple.com/us/app/timbersong/id534962234).
+
+f you enjoy this app, please consider making a donation. Go [here](http://highwaterlabs.com/donate.html) to donate.
