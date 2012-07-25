@@ -1,16 +1,17 @@
 #TimberSong#
-Version: 1.1  
+Version: 1.2  
 By Dan Fellin  
 
 TimberSong is a small Android App that contains the chants of the Timbers Army. It also has a copy of the 2012 Timbers schedule.
 
 It is undergoing heavy development. It's the first Android App I've ever written, and there's a lot of stuff I would do differently knowing what I know now.
 
-Here's a list of recent changes for 1.1:
+Here's a list of recent changes:
 
 + Added links to youtube clips at the bottom of many of the chants. If you find more, please email them to me and they'll go in the next version!
-+ Made the Schedule look prettier. Added tabs for Home/Away Games.
++ Made the schedule look prettier. Added tabs for Home/Away Games.
 + Various behind-the-scenes improvements to decrease size/increase performance.
++ Added new chants July 23, 2012
 
 The project is open-source and any contributions are most welcome.
 

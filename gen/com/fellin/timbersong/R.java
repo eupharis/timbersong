@@ -10,7 +10,6 @@ package com.fellin.timbersong;
 public final class R {
     public static final class array {
         public static final int away_game_array=0x7f060001;
-        public static final int chantLink=0x7f060002;
         /**  BEGIN SCHEDULE STRINGS 
          */
         public static final int home_game_array=0x7f060000;
@@ -66,42 +65,27 @@ public final class R {
          */
         public static final int app_name=0x7f050000;
         public static final int away=0x7f050007;
-        /**  BEGIN CHANT_TEXT SECTION 
-         */
-        public static final int chantTextBuryMe=0x7f05001d;
-        public static final int chantTextCantHelp=0x7f05001e;
-        public static final int chantTextLoveYouSo=0x7f050025;
-        public static final int chantTextMentalBarmy=0x7f05001f;
-        public static final int chantTextMentalGreen=0x7f050020;
-        public static final int chantTextMighty=0x7f050021;
-        public static final int chantTextNorthEnd=0x7f050022;
-        public static final int chantTextOnward=0x7f050023;
-        public static final int chantTextParty=0x7f050024;
-        public static final int chantTextPortlandBoys=0x7f050026;
-        public static final int chantTextSomos=0x7f050027;
-        public static final int chantTextSunshine=0x7f05002c;
-        public static final int chantTextTetris=0x7f050028;
-        public static final int chantTextWannaBe=0x7f05002a;
-        public static final int chantTextWhoaOh=0x7f050029;
-        public static final int chantTextWinTheLeague=0x7f05002b;
         /**  BEGIN CHANT_TITLE SECTION 
          */
-        public static final int chantTitleBuryMe=0x7f05000d;
-        public static final int chantTitleCantHelp=0x7f05000e;
-        public static final int chantTitleLoveYouSo=0x7f050016;
-        public static final int chantTitleMentalBarmy=0x7f050010;
-        public static final int chantTitleMentalGreen=0x7f050011;
-        public static final int chantTitleMighty=0x7f050012;
-        public static final int chantTitleNorthEnd=0x7f050013;
-        public static final int chantTitleOnward=0x7f050014;
-        public static final int chantTitleParty=0x7f050015;
-        public static final int chantTitlePortlandBoys=0x7f050017;
-        public static final int chantTitleSomos=0x7f050019;
-        public static final int chantTitleSunshine=0x7f05001c;
-        public static final int chantTitleTetris=0x7f05001a;
-        public static final int chantTitleWannaBe=0x7f05000f;
-        public static final int chantTitleWhoaOh=0x7f050018;
-        public static final int chantTitleWinTheLeague=0x7f05001b;
+        public static final int chantTitleBellaCiao=0x7f05000d;
+        public static final int chantTitleBuryMe=0x7f05000e;
+        public static final int chantTitleCantHelp=0x7f05000f;
+        public static final int chantTitleGoals=0x7f050010;
+        public static final int chantTitleKeepItUp=0x7f050012;
+        public static final int chantTitleLoveYouSo=0x7f050019;
+        public static final int chantTitleMentalBarmy=0x7f050013;
+        public static final int chantTitleMentalGreen=0x7f050014;
+        public static final int chantTitleMighty=0x7f050015;
+        public static final int chantTitleNorthEnd=0x7f050016;
+        public static final int chantTitleOnward=0x7f050017;
+        public static final int chantTitleParty=0x7f050018;
+        public static final int chantTitlePortlandBoys=0x7f05001a;
+        public static final int chantTitleSomos=0x7f05001c;
+        public static final int chantTitleSunshine=0x7f05001f;
+        public static final int chantTitleTetris=0x7f05001d;
+        public static final int chantTitleWannaBe=0x7f050011;
+        public static final int chantTitleWhoaOh=0x7f05001b;
+        public static final int chantTitleWinTheLeague=0x7f05001e;
         public static final int highwater_desc=0x7f050009;
         public static final int highwater_name=0x7f050008;
         public static final int highwater_source=0x7f05000b;
@@ -118,8 +102,6 @@ public final class R {
         public static final int styleTitle=0x7f070000;
     }
     public static final class xml {
-        public static final int app_data=0x7f040000;
-        public static final int chant_data=0x7f040001;
-        public static final int schedule_data=0x7f040002;
+        public static final int all=0x7f040000;
     }
 }

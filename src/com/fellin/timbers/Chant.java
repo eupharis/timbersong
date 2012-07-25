@@ -2,14 +2,13 @@ package com.fellin.timbers;
 
 public class Chant {
 	
-	public Chant() {
-		String name = "";
-		String lyrics = "";
-		String video = "";
+	public String name;
+	public String lyrics;
+	public String video;
+	
+	public Chant(String nameIn, String lyricsIn, String videoIn) {
+		name = nameIn; 
+		lyrics = lyricsIn;
+		video = videoIn;		
 	}
-	
-/*	public Chant returnChant() {
-		return this;
-	}*/
-	
 }

@@ -2,8 +2,8 @@ package com.fellin.timbers;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
+import android.widget.Button;
 
 import com.fellin.timbersong.R;
 
@@ -17,11 +17,10 @@ public class SingTimbersActivity extends BaseActivity {
     }
     
      
-    public void chantClickHandler(View v) {
-    	Intent intent = new Intent(this, showChantActivity.class);
-    	intent.putExtra("chantId", v.getId());    	  	  	
-    	Log.d(TAG, String.valueOf(v.getId()));
-    	
+    public void chantClickHandler(View v) {    	  	  	
+    	Intent intent = new Intent(this, ChantPull.class);
+    	Button b = (Button) v;
+    	intent.putExtra("chantName", b.getText().toString());
     	startActivity(intent);
     	}
 }

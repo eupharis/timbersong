@@ -6,7 +6,7 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.widget.TextView;
 
-public class AboutView extends Activity {
+public class AboutView extends BaseActivity {
 	
 	@Override
 	public void onCreate(Bundle savedInstanceState) {

@@ -11,18 +11,29 @@
 	    android:layout_height="wrap_content"
 	    android:orientation="vertical" >
 		
+	    
+	    <Button
+		    android:layout_marginTop="8sp" 
+		    android:text="@string/chantTitleBellaCiao"
+		    style="@style/styleButton" />	    
 		<Button
 		    android:id="@+id/chantTitleBuryMe"
 		    android:text="@string/chantTitleBuryMe"
 		    style="@style/styleButton" 
-		    android:layout_marginTop="8sp" />
+		    />
 		<Button
 		    android:id="@+id/chantTitleCantHelp"
 		    android:text="@string/chantTitleCantHelp"
 		    style="@style/styleButton" />
 		<Button
+		    android:text="@+string/chantTitleGoals"
+			style="@style/styleButton" />
+		<Button
 		    android:id="@+id/chantTitleWannaBe"
 		    android:text="@string/chantTitleWannaBe"
+			style="@style/styleButton" />
+		<Button
+			android:text="@string/chantTitleKeepItUp"
 			style="@style/styleButton" />
 		<Button
 		    android:id="@+id/chantTitleMentalBarmy"
