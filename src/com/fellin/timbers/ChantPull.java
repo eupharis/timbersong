@@ -91,6 +91,9 @@ public class ChantPull extends BaseActivity {
             } else if (eventType == XmlPullParser.END_TAG) {
                 if ("chant".equals(xpp.getName())) {
                     results.add(new Chant(name, lyrics, video));
+                    name = "";
+                    lyrics = "";
+                    video = "";
                 }
             }
 	        eventType = xpp.next();

@@ -1,28 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<app>
-		<name>TimberSong</name>
-		<description><![CDATA[
-			A Small Guide to the Chants
-			Of the Timbers Army
-		]]></description>
-		<urls>
-			<item label="Project Home">http://highwaterlabs.com/timbersong.html</item>
-			<item label="Source Code">https://github.com/eupharis/timbersong</item>
-		</urls>
-		<version>v1.2</version>
-		<author>
-			<name><![CDATA[
-				HIGHWATER
-				LABS
-			]]></name>
-			<description><![CDATA[
-				Mobile Application Development
-				Portland, OR
-				2012
-			]]></description>
-		</author>
-	</app>
 	<schedules>
 		<year>2012</year>
 		<name>2012 Schedule</name>
@@ -223,13 +200,15 @@
 			<lyrics><![CDATA[
 				(Tune: "Girls")
 				
-				Goals, all I really want is goals
+				Goals
+				All I really want is goals
 				And in the morning it's goals
 				Cause in the evening it's goals
 				
 				(Trumpets)
 				
-				Goals - that's all I really want is goals
+				Goals
+				That's all I really want is goals
 				Two at a time - I want goals
 				
 				(RIP MCA)

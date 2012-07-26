@@ -1,10 +1,9 @@
 package com.fellin.timbers;
 
-import com.fellin.timbersong.R;
-
-import android.app.Activity;
 import android.os.Bundle;
 import android.widget.TextView;
+
+import com.fellin.timbersong.R;
 
 public class AboutView extends BaseActivity {
 	
