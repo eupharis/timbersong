@@ -8,9 +8,9 @@ It's the first Android App I've ever written, and there's a lot of stuff I would
 
 The project is open-source and any contributions welcome.
 
-[Mike Pacific](https://twitter.com/mpacific) ported it to the iPhone. Here's the [iPhone Timbersong source code](https://github.com/mpacific/timbersong)
+[Mike Pacific](https://twitter.com/mpacific) ported it to the iPhone. Here's the [iPhone Timbersong source code](https://github.com/mpacific/timbersong).
 
 Get the App:
 
 Android: [Google Play](https://play.google.com/store/apps/details?id=com.fellin.timbersong)  
-iPhone: [App Store](http://itunes.apple.com/us/app/timbersong/id534962234).
+iPhone: [App Store](http://itunes.apple.com/us/app/timbersong/id534962234)
